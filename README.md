@@ -7,3 +7,5 @@ reflection在gsm8k上准确率，
 reflection在gsm8k表现不如cot
 cot在mbpp上表现很糟糕，不如reflection的0.680933852140077
 
+reflection gsm8k最后准确率为80左右低于cot的90左右
+![Uploading image.png…]()
