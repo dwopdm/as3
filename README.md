@@ -4,4 +4,6 @@ https://colab.research.google.com/drive/1uRtcSRFAeUQK9E7uYrfyPzwq29Q5vaLU#scroll
 ![image](https://github.com/user-attachments/assets/f8c4f107-1cef-42a1-9db5-e13b7166c05b)
 reflection在gsm8k上准确率，
 ![Uploading image.png…]()
+reflection在gsm8k表现不如cot
+cot在mbpp上表现很糟糕，不如reflection的0.680933852140077
 
