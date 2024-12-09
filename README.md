@@ -1,4 +1,12 @@
 # as3
+use kvcache vs no 不量化 fp16 fp8对比
+https://colab.research.google.com/drive/1kwtgn3Obsgf9KoQBy8Bh0WV3SIurwb7Y?usp=sharing
+use kv cache后速度变快了，显存占用提高
+关于量化结果很奇怪，每次跑结果都不一样，但是fp8显存占用应该最小，用的是colab t4
+kv cache 实现结果
+Time taken for golden greedy decoding without KV cache:  53.08241891860962
+Time taken for customized greedy decoding:  8.432814359664917
+在colab t4上结果
 kv cache 实现结果
 Time taken for golden greedy decoding without KV cache:  53.08241891860962
 Time taken for customized greedy decoding:  8.432814359664917
