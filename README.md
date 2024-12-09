@@ -13,3 +13,5 @@ cot在mbpp上准确率0.72 高于reflection
 ![Uploading image.png…]()
 icl最终实现
 https://colab.research.google.com/drive/1OjBn0vYtSL3pAIxZXXKPs2C3F6sfu0oU?usp=sharing
+reflection 
+https://colab.research.google.com/drive/1uRtcSRFAeUQK9E7uYrfyPzwq29Q5vaLU?usp=sharing
