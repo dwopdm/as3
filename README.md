@@ -1,4 +1,9 @@
 # as3
+kv cache 实现结果
+Time taken for golden greedy decoding without KV cache:  53.08241891860962
+Time taken for customized greedy decoding:  8.432814359664917
+在colab t4上结果
+
 https://colab.research.google.com/drive/1uRtcSRFAeUQK9E7uYrfyPzwq29Q5vaLU#scrollTo=iFJ0RK1j0BHw&line=1&uniqifier=1 
 reflection实现，在mbpp上达到0.6809338521400778准确率。
 0.680933852140077
